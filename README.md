@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0704-binary-search) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -14,8 +15,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0217-contains-duplicate) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0704-binary-search) |
+## String
+|  |
+| ------- |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+## Quickselect
+|  |
+| ------- |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 <!---LeetCode Topics End-->
