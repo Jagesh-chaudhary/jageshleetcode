@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0704-binary-search) |
+| [1572-matrix-diagonal-sum](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Hash Table
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0054-spiral-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/1572-matrix-diagonal-sum) |
 ## Simulation
 |  |
 | ------- |
