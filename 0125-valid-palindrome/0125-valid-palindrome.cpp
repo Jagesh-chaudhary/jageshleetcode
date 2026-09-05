@@ -6,11 +6,11 @@ public:
 
         while(start < end) {
 
-            if(!isalnum(s[start])){ // is alpha numeric 
+            if(!isalnum(s[start])){ // is alpha numeric number from start
                 start++;
                 continue;
             }
-            if(!isalnum(s[end])){ // is alpha numeric number
+            if(!isalnum(s[end])){ // is alpha numeric number from end
                 end--;
                 continue;
             }
