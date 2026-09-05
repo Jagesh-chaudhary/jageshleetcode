@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0344-reverse-string) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Divide and Conquer
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0344-reverse-string) |
 ## Monotonic Stack
 |  |
