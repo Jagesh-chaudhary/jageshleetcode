@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0867-transpose-matrix) |
+| [1480-running-sum-of-1d-array](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Hash Table
@@ -123,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0169-majority-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
