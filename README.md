@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0867-transpose-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1539-kth-missing-positive-number](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Hash Table
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0704-binary-search) |
+| [1539-kth-missing-positive-number](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/1539-kth-missing-positive-number) |
 ## String
 |  |
 | ------- |
