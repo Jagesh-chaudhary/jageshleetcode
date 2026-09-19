@@ -2,8 +2,8 @@ class Solution {
 public:
     bool isIsomorphic(string s, string t) {
 
-        int a[256] = {};
-        int b[256] = {};
+        int a[128] = {};
+        int b[128] = {};
 
         for(int i=0; i<s.size(); i++){
             if(a[s[i]] != b[t[i]]) {
