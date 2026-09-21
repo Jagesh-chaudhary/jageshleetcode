@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2527-find-xor-beauty-of-array](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/2527-find-xor-beauty-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -128,12 +129,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0268-missing-number) |
+| [2527-find-xor-beauty-of-array](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/2527-find-xor-beauty-of-array) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0268-missing-number) |
+| [2527-find-xor-beauty-of-array](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/2527-find-xor-beauty-of-array) |
 ## Counting
 |  |
 | ------- |
