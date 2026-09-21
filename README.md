@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0268-missing-number) |
@@ -153,5 +154,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
