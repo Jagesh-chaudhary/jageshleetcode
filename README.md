@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0643-maximum-average-subarray-i](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0867-transpose-matrix) |
@@ -156,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0231-power-of-two) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
