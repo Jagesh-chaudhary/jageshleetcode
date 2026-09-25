@@ -167,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/1903-largest-odd-number-in-string) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
