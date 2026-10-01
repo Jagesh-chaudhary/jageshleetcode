@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0645-set-mismatch](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
 | ------- |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0645-set-mismatch](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0645-set-mismatch) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Binary Search
 |  |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0645-set-mismatch) |
 | [2527-find-xor-beauty-of-array](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/2527-find-xor-beauty-of-array) |
 ## Counting
 |  |
