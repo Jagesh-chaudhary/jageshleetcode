@@ -2,9 +2,9 @@ class Solution {
 public:
     int climbStairs(int n) {
 
-        // if(n==0 || n==1){
-        //     return 1;
-        // }
+        if(n==0 || n==1){
+            return 1;
+        }
 
         // // This question is based on the Tiling Problem
         // // Vericle 
