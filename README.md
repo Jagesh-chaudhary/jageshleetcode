@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0054-spiral-matrix) |
+| [0088-merge-sorted-array](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0152-maximum-product-subarray) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0242-valid-anagram) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0189-rotate-array) |
