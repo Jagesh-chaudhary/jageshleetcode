@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0509-fibonacci-number) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0509-fibonacci-number) |
 ## Sliding Window
