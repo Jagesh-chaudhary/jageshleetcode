@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0645-set-mismatch) |
 | [2527-find-xor-beauty-of-array](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/2527-find-xor-beauty-of-array) |
 ## Counting
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0509-fibonacci-number) |
 ## Sliding Window
 |  |
