@@ -8,13 +8,13 @@ public:
             int mid = st + (end - st) / 2;
 
             if(nums[mid] == target) {
-                return true;
+                return true; // if target is equal to mid
             }
 
-            if(nums[mid] == nums[end]) {
+            if(nums[mid] == nums[end]) { // handle duplicate value
                 end--;
             }
-            else if(nums[st] <= nums[mid]) {
+            else if(nums[st] <= nums[mid]) { // left half
                 if(nums[st] <= target && target < nums[mid]) {
                     end = mid - 1;
                 }
@@ -22,7 +22,7 @@ public:
                     st = mid + 1;
                 }
             }
-            else {
+            else { // right half
                 if(nums[mid] < target && target <= nums[end]) {
                     st = mid + 1;
                 }
