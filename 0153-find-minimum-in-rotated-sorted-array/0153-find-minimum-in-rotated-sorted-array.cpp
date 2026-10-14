@@ -5,7 +5,7 @@ public:
        int st = 0;
        int end = nums.size()-1;
 
-       while(st < end){
+       while(st < end){ // =< tle problem occure 
         int mid = st+(end-st)/2;
 
             if(nums[mid] > nums[end]){
