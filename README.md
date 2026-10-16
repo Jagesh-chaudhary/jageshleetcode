@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/1903-largest-odd-number-in-string) |
+| [2235-add-two-integers](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/2235-add-two-integers) |
 | [2527-find-xor-beauty-of-array](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/2527-find-xor-beauty-of-array) |
 ## Bit Manipulation
 |  |
