@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0054-spiral-matrix) |
+| [0075-sort-colors](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0217-contains-duplicate) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -230,4 +233,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
