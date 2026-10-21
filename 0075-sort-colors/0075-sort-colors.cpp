@@ -9,7 +9,7 @@ public:
             mid = st;
         }
 
-        while(mid <= end) {
+        while(mid <= end) { // TC = O(n), SC = O(1)
             if(nums[mid] == 0){
                 swap(nums[st], nums[mid]);
                 st++;
