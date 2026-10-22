@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0054-spiral-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0867-transpose-matrix) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0189-rotate-array) |
