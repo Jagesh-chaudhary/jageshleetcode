@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0867-transpose-matrix) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/1572-matrix-diagonal-sum) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0509-fibonacci-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2235-add-two-integers](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/2235-add-two-integers) |
 | [2527-find-xor-beauty-of-array](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/2527-find-xor-beauty-of-array) |
