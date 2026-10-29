@@ -1,3 +1,4 @@
+
 class StockSpanner {
 public:
     stack<pair<int, int>> st;
