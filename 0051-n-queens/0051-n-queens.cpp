@@ -2,7 +2,7 @@ class Solution {
 public:
 
 
-bool check(int n, vector<string>& Board, int i, int j) {
+bool check(int n, vector<string>& Board, int i, int j) { //TC = N!
     // Upper left diagonal
     int row = i;
     int column = j;
