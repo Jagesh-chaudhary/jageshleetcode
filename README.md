@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0205-isomorphic-strings) |
