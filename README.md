@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0509-fibonacci-number) |
+| [0593-valid-square](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0593-valid-square) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2235-add-two-integers](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/2235-add-two-integers) |
@@ -280,4 +281,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0901-online-stock-span) |
+## Geometry
+|  |
+| ------- |
+| [0593-valid-square](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0593-valid-square) |
 <!---LeetCode Topics End-->
