@@ -2,25 +2,23 @@ class Solution {
 public:
     bool isPalindrome(string s) {
         int start = 0;
-        int end = s.length() - 1;
+        int end = s.length()-1;
 
-        while(start < end) {
-
-            if(!isalnum(s[start])){ // is alpha numeric number from start
+        while(start < end){
+            if(!isalnum(s[start])) { 
                 start++;
-                continue;
-            }
-            if(!isalnum(s[end])){ // is alpha numeric number from end
+            } else if(!isalnum(s[end])) {
                 end--;
-                continue;
+            } else {
+                if(tolower(s[start]) != tolower(s[end])) {
+                    return false;
+                }
+
+                start++;
+                end--;
             }
-
-
-            if(tolower(s[start]) != tolower(s[end])) {
-                return false;    
-            } 
-            start++;
-            end--;
+             
+            
         }
         return true;
         
