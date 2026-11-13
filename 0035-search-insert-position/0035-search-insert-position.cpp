@@ -1,6 +1,7 @@
 class Solution {
 public:
     int searchInsert(vector<int>& nums, int target) {
+        
         int st = 0;
         int end = nums.size()-1;
 
@@ -9,13 +10,12 @@ public:
 
             if(nums[mid] == target) {
                 return mid;
-            } else if(nums[mid] < target) {
-                st = mid+1;
-            } else {
-                end = mid-1;
+            } else if (nums[mid] < target) {
+                st++;
+            } else{
+                end--;
             }
         }
         return st;
-        
     }
 };
