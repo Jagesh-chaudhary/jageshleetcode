@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0645-set-mismatch) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0496-next-greater-element-i](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0678-valid-parenthesis-string) |
 | [0901-online-stock-span](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0901-online-stock-span) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/Jagesh-chaudhary/jageshleetcode/tree/master/0901-online-stock-span) |
 ## Matrix
 |  |
