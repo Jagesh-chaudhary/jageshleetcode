@@ -8,10 +8,8 @@ public:
             int mid = st+(end-st)/2;
             int missing = arr[mid] - (mid+1);
 
-            if(missing < k)
-                st = mid+1;
-            else
-               end = mid-1;
+            if(missing < k)st = mid+1;
+            else end = mid-1;
         }
         return st+k;
     }
